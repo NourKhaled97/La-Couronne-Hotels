@@ -1,0 +1,36 @@
+.booking-container {
+  background-image: linear-gradient(
+      rgba(48, 152, 213, 0.5),
+      rgba(241, 114, 68, 0.5)
+    ),
+    url('../images/outside1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 150px;
+}
+.booking-card {
+  padding: 10px !important;
+}
+
+.form-select {
+  background-color: rgb(238, 235, 235) !important;
+  border-radius: 45px !important;
+  width: 100% !important;
+  border: 0 !important;
+  font-style: italic !important;
+  font-weight: 600 !important;
+  padding-left: 20px !important;
+  height: 70px;
+}
+.form-select:focus {
+  background-color: rgb(238, 235, 235);
+  box-shadow: 0 0 0 0;
+  border: 0;
+}
+.form-select::placeholder {
+  color: gray !important;
+  font-style: italic !important;
+  font-weight: 600 !important;
+  padding-left: 20px !important;
+}

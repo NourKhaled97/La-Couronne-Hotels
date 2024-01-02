@@ -1,0 +1,85 @@
+.section-3-image {
+  background-image: linear-gradient(
+      rgba(48, 152, 213, 0.5),
+      rgba(241, 114, 68, 0.5)
+    ),
+    url('../images/cityblanchepool1.jpg');
+  align-items: flex-start !important;
+  padding-top: 150px;
+  background-position: center center;
+}
+.services-title {
+  text-align: start;
+  font-size: 60px;
+}
+.services-list {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0;
+}
+.services-li {
+  background-color: rgba(111, 184, 226, 0.5);
+  width: 100%;
+}
+.service-li {
+  text-decoration: none !important;
+}
+
+.container-2 {
+  padding: 60px 100px;
+  margin: 0 !important;
+  width: 100%;
+  border-bottom: 2px solid black;
+}
+.container-title {
+  display: flex;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+.title {
+  text-align: start;
+  font-size: 30px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.title-services {
+  text-align: start;
+  font-size: 30px;
+  margin-bottom: 0;
+  padding-top: 5px;
+  padding-left: 20px;
+}
+.bathroom-li {
+  cursor: auto;
+  background-color: #977d77;
+}
+.bathroom-name {
+  color: #663024 !important;
+  font-size: 28px;
+}
+.servi-li {
+  cursor: auto;
+  background-color: #b9dbf2;
+}
+.servi-name {
+  color: #75b0d6 !important;
+  font-size: 28px;
+}
+.safety-li {
+  cursor: auto;
+  background-color: #97c293;
+}
+.safety-name {
+  color: #7e8e42 !important;
+  font-size: 28px;
+}
+.view-li {
+  cursor: auto;
+  background-color: #f2e6dc;
+}
+.view-name {
+  color: #eec8a4 !important;
+  font-size: 28px;
+}

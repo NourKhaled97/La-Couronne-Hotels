@@ -1,0 +1,19 @@
+.rooms-titles-image {
+  background-image: linear-gradient(
+      rgba(48, 152, 213, 0.5),
+      rgba(241, 114, 68, 0.5)
+    ),
+    url('../images/la couronne1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  align-items: flex-start !important;
+  padding-top: 150px;
+}
+.rooms-hotels {
+  border-bottom: 2px solid black;
+}
+.hotel-rooms {
+  margin: 50px 0 !important;
+  padding: 50px 0 !important;
+}

@@ -1,0 +1,119 @@
+/* Header */
+.header-container {
+  background-color: transparent;
+  position: fixed;
+  top: 5px;
+  left: 60px;
+  width: calc(100% - 100px);
+  z-index: 10;
+}
+.header-row {
+  background-color: white;
+  border-radius: 45px;
+  height: 55px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+.header-logo {
+  margin-left: 25px;
+  display: flex;
+}
+.navbar-button {
+  border: 0 !important;
+  padding-left: 20px;
+}
+.navbar-button:focus {
+  box-shadow: 0 0 0 0 !important;
+}
+.header-links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header-links-menu {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  width: calc(100% - 20px);
+  border-radius: 45px;
+  z-index: 2;
+  padding: 0 20px;
+  margin-top: 5px;
+}
+.header-link-language {
+  color: #ababaa;
+  text-decoration: none;
+  font-weight: 600;
+  font-style: italic;
+}
+.header-link {
+  color: #ababaa;
+  text-decoration: none;
+  font-weight: 600;
+  font-style: italic;
+}
+.header-link:hover {
+  color: black;
+}
+.active-header-link {
+  color: black;
+}
+.header-language {
+  margin-bottom: 0;
+  color: black;
+  font-weight: 600;
+  font-style: italic;
+}
+.header-button-container {
+  padding-right: 10px;
+  height: 35px;
+}
+.header-button {
+  display: flex;
+  border-radius: 45px !important;
+  background-color: #75b0d6 !important;
+  border: 0 !important;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  color: white;
+  text-decoration: none;
+}
+.header-button:hover {
+  background-color: rgb(13, 84, 128) !important;
+}
+
+.check-container {
+  display: flex;
+  padding-top: 2px;
+}
+.check {
+  padding-left: 30px !important;
+}
+.language-button {
+  border: 0.6px solid gray;
+  background-color: rgb(240, 235, 235);
+}
+.language-button-active {
+  background-color: #75b0d6;
+}
+.language-button-left {
+  border-top-left-radius: 25%;
+  border-bottom-left-radius: 25%;
+}
+.language-button-right {
+  border-top-right-radius: 25%;
+  border-bottom-right-radius: 25%;
+}
+
+@media (min-width: 760px) and (max-width: 900px) {
+  .header-link {
+    font-size: 12px;
+  }
+  .header-logo {
+    margin-left: 10px;
+  }
+}

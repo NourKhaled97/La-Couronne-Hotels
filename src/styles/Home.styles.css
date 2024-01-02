@@ -1,0 +1,270 @@
+/* section 1 */
+.section-1 {
+  padding: 200px 0 70px 150px;
+  background-image: linear-gradient(
+      rgba(67, 172, 233, 0.5),
+      rgba(241, 114, 68, 0.5)
+    ),
+    url('../images/couronnesuites.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 900px;
+  color: white;
+  font-style: italic;
+}
+.home-title {
+  margin-bottom: 50px;
+}
+.home-subtitle {
+  margin-bottom: 30px;
+}
+
+/* section 2 */
+.section-2 {
+  margin: 70px 0 !important;
+}
+.section-2-title {
+  margin: 0 180px 40px;
+  text-align: center;
+  font-weight: 700;
+  font-style: italic;
+}
+.section-2-row {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.hotel-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 270px;
+}
+.hotel-city {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+.hotel-col-title {
+  font-weight: 700;
+  font-style: italic;
+  margin-bottom: 40px;
+}
+
+/* section 3 */
+.section-3 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 60px 100px;
+  color: white;
+  font-style: italic;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.experience-list {
+  width: 100%;
+  padding-top: 30px;
+}
+.col-li {
+  justify-content: center;
+  display: flex;
+}
+.experience-li {
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 45px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 30px 10px;
+  cursor: pointer;
+  font-size: 20px;
+  width: 100%;
+}
+.clicked-experience-li {
+  background-color: rgb(155, 155, 155);
+  opacity: 0.8;
+}
+.experience-name {
+  color: white;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+/* section 4 */
+.section-4 {
+  margin: 70px 150px !important;
+}
+.section-4-titles {
+  display: flex;
+}
+.section-4-title {
+  font-size: 40px;
+  font-weight: 1000;
+}
+.section-4-subtitle {
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 8px;
+}
+.reviews {
+  background-color: #dfdfdf;
+  border-radius: 45px;
+  margin-top: 30px;
+  padding: 60px 70px 60px 100px;
+  display: flex;
+}
+.reviews-titles {
+  padding-left: 60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.review-text {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 24px;
+  padding-bottom: 30px;
+}
+.review-name {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* section 5 */
+.services-row {
+  background-color: #663027;
+  padding: 60px 100px 60px 150px;
+}
+.services-read-title {
+  color: white;
+  font-weight: 700;
+  padding-right: 50px;
+}
+.services-separator {
+  color: white;
+  height: 3px;
+  background-color: white;
+  opacity: 1;
+}
+.read-more-button {
+  display: flex;
+  border-radius: 45px !important;
+  background-color: white !important;
+  border: 0 !important;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 40px;
+  color: black;
+  font-style: italic;
+  font-weight: 500;
+  text-decoration: none;
+}
+.home-services-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 90px;
+}
+.home-service-li {
+  text-align: center;
+}
+.service-name {
+  color: white;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 10px;
+}
+.service-icon {
+  color: white;
+}
+
+@media (max-width: 1150px) {
+  .experience-li {
+    margin: 30px 5px;
+  }
+  .services-row {
+    padding: 40px 50px 40px 50px;
+  }
+}
+@media (max-width: 560px) {
+  .section-2-title {
+    margin: 0 40px 40px;
+  }
+  .hotel-city {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  .section-3 {
+    padding: 60px 40px;
+  }
+  .section-4 {
+    margin: 70px 20px !important;
+  }
+  .section-4-titles {
+    text-align: center;
+  }
+  .reviews {
+    padding: 60px 20px 60px 20px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .reviews-titles {
+    padding: 0;
+    padding-top: 20px;
+  }
+}
+@media (min-width: 561px) and (max-width: 850px) {
+  .section-1 {
+    padding: 150px 50px 70px 50px;
+    height: 600px;
+  }
+  .section-2-title {
+    margin: 0 80px 40px;
+  }
+
+  .section-4 {
+    margin: 70px 80px !important;
+  }
+  .section-4-titles {
+    text-align: center;
+  }
+  .reviews {
+    padding: 60px 40px 60px 60px;
+  }
+
+  .services-read-title {
+    padding-right: 20px;
+  }
+}
+@media (min-width: 431px) and (max-width: 575px) {
+  .section-1 {
+    padding: 150px 50px 70px 50px;
+    height: 600px;
+  }
+  .home-services-list {
+    padding-left: 0;
+    padding-top: 30px;
+  }
+}
+@media (max-width: 430px) {
+  .section-1 {
+    padding: 100px 50px 70px 50px;
+    height: 600px;
+  }
+  .home-services-list {
+    padding-left: 0;
+    padding-top: 20px;
+    flex-direction: column;
+  }
+}

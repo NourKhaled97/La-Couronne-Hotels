@@ -1,0 +1,81 @@
+.about-li {
+  width: 80% !important;
+}
+.about-name {
+  color: white;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 30px;
+  padding-top: 10px;
+}
+.hotels-card {
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+}
+.lacouronnehotel {
+  background-image: linear-gradient(
+      rgba(48, 152, 213, 0.5),
+      rgba(48, 152, 213, 0.5)
+    ),
+    url('../images/ctiy blanche pool1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.cityblanchehotel {
+  background-image: linear-gradient(
+      rgba(241, 114, 68, 0.5),
+      rgba(241, 114, 68, 0.5)
+    ),
+    url('../images/la couronne pool1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.lacouronnesuitshotel {
+  background-image: linear-gradient(
+      rgba(48, 152, 213, 0.5),
+      rgba(48, 152, 213, 0.5)
+    ),
+    url('../images/la couronne suites pool1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.hotel-card {
+  width: 40%;
+  padding: 50px;
+  text-align: center;
+  border-radius: 45px !important;
+}
+.see-more {
+  display: flex;
+  border-radius: 45px !important;
+  background-color: rgba(48, 152, 213, 0.5) !important;
+  border: 0 !important;
+  justify-content: center;
+  align-items: center;
+  width: 130px;
+  height: 40px;
+  color: white;
+  font-style: italic;
+  font-weight: 500;
+  text-decoration: none;
+}
+.card-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+@media (max-width: 560px) {
+  .hotel-card {
+    width: 90%;
+  }
+}
+@media (min-width: 561px) and (max-width: 850px) {
+  .hotel-card {
+    width: 60%;
+  }
+}

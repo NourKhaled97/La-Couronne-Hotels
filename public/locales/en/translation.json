@@ -1,0 +1,78 @@
+{
+  "Home": "Home",
+  "About": "About",
+  "Rooms": "Rooms",
+  "Services": "Services",
+  "Contact us": "Contact us",
+  "Book now": "Book now",
+  "read more": "read more",
+  "see more": "see more",
+  "Send message": "Send message",
+  "footer-text": "Bangui awaits you at La Couronne Hotels. Three hotels, three experiences.",
+  "loading": {
+    "text1": "Welcome to our website.",
+    "text2": "Please wait a second.",
+    "text3": "We hope you enjoy your trip."
+  },
+  "home-page": {
+    "section1-title": "Welcome to Group Hotels La Couronne, the best choice for your stay in Bangui.",
+    "section1-subtitle": "Whether you are looking for luxury, comfort, or convenience, we have the perfect hotel for you. Choose from our three hotels: La Couronne, La Couronne Suites, and City Blanche Hotels. Each hotel offers a unique experience and a range of amenities to suit your needs. Book your room today and enjoy the hospitality of La Couronne Hotels.",
+    "section2-title": "Bangui awaits you at La Couronne Hotels. Three hotels, three experiences.",
+    "section3-title": "Enjoy the unforgettable experience with the best",
+    "section3-Fitness centre": "Fitness centre",
+    "section3-Indoor swimming pool": "Indoor swimming pool",
+    "section3-Restaurant": "Restaurant",
+    "section3-Laundry": "Laundry",
+    "section4-title": "What they said about La Couronne",
+    "section4-subtitle": "By reading reviews from others who have stayed with us, you can get a better idea od what to expect during your stay.",
+    "section4-reviews-title": "Everything about the hotel was exceptional. It was clean, stylish, roomy with excellent service in where we had dinner. Food was good and great value for money and service was attentive and efficient. Room itself was well equipped and comfortable.",
+    "sectio5-title": "with the best servise and quality always",
+    "sectio5-free wifi": "free wifi",
+    "sectio5-Airport shuttle": "Airport shuttle",
+    "sectio5-Free parking": "Free parking",
+    "sectio5-Air conditioning": "Air conditioning"
+  },
+  "about-page": {
+    "title": "Find your next stay",
+    "subtitle1": "La Couronne has spacious and clean rooms at reasonable prices, as well as a great location and service. You will feel at home and appreciated at this hotel.",
+    "subtitle2": "a budget-friendly hotel with a great location and service Discover Bangui with City Blanche, a hotel that offers clean and comfortable rooms at affordable prices a hotel that makes you feel welcome and valued.",
+    "subtitle3": "At La Couronne Suites, you will enjoy a pleasant and affordable stay in Bangui. A great service and location. The hotel is situated in the heart of the city, close to many attractions, such as the Central Market. You can also find a variety of shops, restaurants."
+  },
+  "rooms-page": {
+    "title": "Find the perfect room",
+    "location1": "Rond Point Des Nations Unies, Av.Boganda, Bangui",
+    "description1": "Our room costs 50,000 XAF per night Includes Breakfast.",
+    "location2": "9H8Q + 8GJ , Bangui",
+    "description2": "City Blanche offers you the monthly rental of a recent and secure apartment. It has a living room, a bedroom, an equipped kitchen, a bathroom and a balcony. It is furnished with taste and comfort, with quality furniture. It has access to private parking and a shared terrace. It is supplied with electricity 24 / 7 and water, thanks to a generator and a water tank. It is ideal for professionals looking for comfortable and practical accommodation.",
+    "location3": "Central African Republic Avenue 2286, Bangui",
+    "description3": "Our room costs 95,000 XAF per night Includes Breakfast."
+  },
+  "services-page": {
+    "bathroom": "Bathroom",
+    "Safety & security": "Safety & security",
+    "View": "View",
+    "toilet paper": "toilet paper",
+    "bidet": "bidet",
+    "Bath or shower": "Bath or shower",
+    "Free toiletries": "Free toiletries",
+    "Dry cleaning": "Dry cleaning",
+    "Currency exchange": "Currency exchange",
+    "Daily house keeping": "Daily house keeping",
+    "24h security": "24h security",
+    "beautiful view": "beautiful view"
+  },
+  "contactus-page": {
+    "Contact Us": "Contact Us",
+    "Phone": "Phone",
+    "e-mail": "e-mail",
+    "E-mail": "E-mail",
+    "Subject": "Subject",
+    "Message": "Message"
+  },
+  "booking-page": {
+    "Company Name": "Company Name",
+    "Adults": "Adults",
+    "Check In": "Check In",
+    "Check Out": "Check Out"
+  }
+}

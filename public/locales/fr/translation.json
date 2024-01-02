@@ -1,0 +1,77 @@
+{
+  "Home": "Home",
+  "About": "À propos",
+  "Rooms": "Chamber",
+  "Services": "Services",
+  "Contact us": "Contactez-nous",
+  "Book now": "Reserve",
+  "read more": "en savoir plus",
+  "see more": "en savoir plus",
+  "Send message": "Envoyer le message",
+  "footer-text": "Bangui vous attend aux Hôtels La Couronne. Trois hôtels, trois expériences.",
+  "loading": {
+    "text1": "Bienvenue sur notre site.",
+    "text2": "Veuillez patienter une seconde.",
+    "text3": "Nous espérons que vous apprécierez votre voyage."
+  },
+  "home-page": {
+    "section1-title": "Bienvenue à La Couronne Hotels, le meilleur choix pour votre séjour à Bangui. ",
+    "section1-subtitle": "Que vous recherchiez le luxe, le confort ou la commodité, nous avons l’hôtel parfait pour vous. Choisissez parmi nos trois hôtels : La Couronne, LaCouronne Suites et CityBlanche Hotels. Réservez votre chambre dès aujourd’hui et profitez de l’hospitalité de La Couronne Hotels.",
+    "section2-title": "Bangui vous attend à La Couronne Hotels. Trois hôtels, trois expériences.",
+    "section3-title": "Vivez une expérience inoubliable avec le meilleur",
+    "section3-Fitness centre": "Centre de Fitness",
+    "section3-Indoor swimming pool": "Piscine intérieure",
+    "section3-Restaurant": "Restaurant",
+    "section3-Laundry": "Lessive",
+    "section4-title": "Ce qu'ils ont dit à propos de La Couronne",
+    "section4-subtitle": "En lisant les commentaires des autres personnes ayant séjourné chez nous, vous pourrez avoir une meilleure idée de ce à quoi vous attendre pendant votre séjour.",
+    "section4-reviews-title": "Tout dans cet hôtel était exceptionnel. C'était propre, élégant, spacieux avec un excellent service là où nous avons dîné. La nourriture était bonne et d'un excellent rapport qualité/prix et le service était attentionné et efficace. La chambre elle-même était bien équipée et confortable.",
+    "sectio5-title": "avec les meilleur service et qualité toujours",
+    "sectio5-free wifi": "Wifi gratuit",
+    "sectio5-Airport shuttle": "Navette aéroport",
+    "sectio5-Free parking": "Parking gratuit",
+    "sectio5-Air conditioning": "Climatisation"
+  },
+  "about-page": {
+    "title": "Trouvez votre prochain séjour",
+    "subtitle1": "La Couronne dispose de chambres spacieuses et propres à des prix raisonnables, ainsi que d’un excellent emplacement et d’un excellent service. Vous vous sentirez comme chez vous et apprécié dans cet hôtel.",
+    "subtitle2": "Un hôtel économique avec un excellent emplacement et un excellent service Découvrez Bangui avec City Blanche, un hôtel qui propose des chambres propres et confortables à des prix abordables. prix Un hôtel où l’on se sent le bienvenu et valorisé.",
+    "subtitle3": "L’hôtel dispose de chambres propres et élégantes à des tarifs raisonnables, ainsi que d’un excellent service et d’un emplacement idéal. L’hôtel est situé au cœur de la ville, à proximité de nombreuses attractions, telles que le marché central. Vous pouvez également trouver une variété de magasins, restaurants."
+  },
+  "rooms-page": {
+    "title": "Trouvez la chambre idéale",
+    "location1": "Rond Point Des Nations Unies, Av.Boganda, Bangui",
+    "description1": "Notre chambre coûte 50 000 XAF par nuit Petit déjeuner compris.",
+    "location2": "9H8Q + 8GJ , Bangui",
+    "description2": "Cité blanche vous propose à la location mensuel d’un appartement récent et sécurisé. Il dispose d'un salon, d’une chambre à coucher, d'une cuisine équipée, d'une salle de bain et d'un balcon. Il est meublé avec goût et confort, avec des meubles de qualité. Il a accès à un parking privé, et à une terrasse commune. Il est alimenté en électricité 24 / 24 et en eau, grâce à un générateur et à un réservoir d'eau. Il est idéal pour les professionnels qui cherchent un logement confortable et pratique.",
+    "description3": "Notre chambre coûte 90 000 XAF par nuit Petit déjeuner compris."
+  },
+  "services-page": {
+    "bathroom": "Salle de bain",
+    "Safety & security": "Sécurité et sûreté",
+    "View": "Vue",
+    "toilet paper": "papier toilette",
+    "bidet": "bidet",
+    "Bath or shower": "Bain ou douche",
+    "Free toiletries": "Toilettes gratuits",
+    "Dry cleaning": "Nettoyage à sec",
+    "Currency exchange": "Échange de devises",
+    "Daily house keeping": "Ménage quotidien",
+    "24h security": "24h Sécurité",
+    "beautiful view": "belle vue"
+  },
+  "contactus-page": {
+    "Contact Us": "Contactez - nous",
+    "Phone": "Téléphone",
+    "e-mail": "e-mail",
+    "E-mail": "E-mail",
+    "Subject": "Sujet",
+    "Message": "Message"
+  },
+  "booking-page": {
+    "Company Name": "Nom de l'entreprise",
+    "Adults": "Adultes",
+    "Check In": "Enregistrement",
+    "Check Out": "Vérifier"
+  }
+}
